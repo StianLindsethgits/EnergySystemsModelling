@@ -1,0 +1,21 @@
+# Installed onshore wind, and its limits
+Denmark had an onshore wind installed capacity at 4.778GW in 2022. In that year, a framework of conditions was set in place that enables a 4x increase in electricity production from pv and onshore wind.
+Sources(https://www.statista.com/statistics/868444/onshore-wind-energy-capacity-in-denmark/?srsltid=AfmBOopqrOcO2vWbb6lMFuO5nN0cfVMUR3iH6Xch9kNWZcF9IJW4hQNv, 
+https://ens.dk/en/energy-sources/facts-about-onshore-wind-power)
+
+------------------------------------------------------------------------------------------------------
+
+Total Danish electricity production in 2024: 35 317 GWh
+Source(https://www.iea.org/countries/denmark/electricity)
+
+------------------------------------------------------------------------------------------------------
+
+Danish PV capacity 2024: 3.945GW
+Source(https://www.statista.com/statistics/497491/connected-and-cumulated-photovoltaic-capacity-in-denmark/)
+
+------------------------------------------------------------------------------------------------------
+
+Danish Offshore installed capacity 2024: 2.641GW
+Danish Onshore installed capacity 2024: 4.852GW
+Source(EurObserv’ER 2025)
+------------------------------------------------------------------------------------------------------
