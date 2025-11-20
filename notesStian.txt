@@ -19,3 +19,58 @@ Danish Offshore installed capacity 2024: 2.641GW
 Danish Onshore installed capacity 2024: 4.852GW
 Source(EurObserv’ER 2025)
 ------------------------------------------------------------------------------------------------------
+
+
+-----------------------------Notes on CSS--------------------------------
+
+CSS can be seen as a process of three steps: 
+
+Capture
+CO2 is separated from other industrial gases at the source, which can
+happen in different ways: 
+
+1. Post-combustion: capturing CO2 after the fuel has been burned.
+2. Pre-combustion: Capturing CO2 before the fuel is burned. 
+3. Oxygen Combustion: burning fuel in pure oxygen instead of air. 
+
+
+Transport
+The captured CO2 is compressed and transported to a storage site, 
+often via pipelines or ships
+
+Storage: 
+The CO2 is injected into deep underground geological formations for
+permanent storage, e.g. depleted oil and gas reservoirs. 
+
+
+
+----------------To-do list for implementation------------------
+
+1. We find one capture technique suitable for Denmark, or just pick
+one randomly. 
+
+2. Choose a suitable method for transport, e.g. pipeline, or
+whatever is cheepest.
+
+Our dataset quotes the costs of investment and operation per tonn 
+CO2 captured per hour. This means we need to;
+
+3. find out how much a power plant emits per hour per MWh produced. 
+
+4. For transporation costs, we would need some distance from emmision 
+site to storage site. 
+
+5. lastly, some storage technology must be selected. 
+
+
+----------------Challenges-------------------------
+
+1. I think choosing what technologies to use without picking randomly
+will be difficult. 
+
+2. Assigning a distance for transport will likely be a very big assumpiton. 
+Most likely we will have to assume a single, or just a few powerplants, 
+and assing some distance to storage site from these. Since these assumptions
+will directly affect the optimization problem, they should ideally be realistic. 
+
+
